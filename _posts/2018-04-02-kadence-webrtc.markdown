@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kadence-webrtc"
-date:   2018-04-02 12:40:00 -0500
+date:   2018-04-01 12:40:00 -0500
 categories: kadence kademlia webrtc
 ---
 This is what happens when you're tasked with merging two emerging techs:
