@@ -23,7 +23,7 @@ Education
 2016-2018 (expected)
 :   **BS, Computer Science**; Columbia University (New York, NY)
 
-    *Courses: Advanced Programming, Programming and Problem Solving, Computer Graphics, Probability and Statistics, Programming Languages(Python), Computer Science Theory, Programming Languages(C++), Programming Languages(Lisp), Development Technology (Linux), Operating Systems I, Analysis of Algorithms I, Programming Languages and Translators, Introduction to Databases, Undergraduate Projects in Computer Science, Advanced Software Engineering, Natural Language Processing, Computer Vision, Computer Networks, Networking Lab, Artificial Intelligence, Machine Learning, Deep Learning, Deep Learning For Computer Vision, Research Projects*
+    *Courses: Advanced Programming, Programming and Problem Solving, Computer Graphics, Probability and Statistics, Computer Science Theory, Operating Systems I, Programming Languages and Translators, Introduction to Databases, Undergraduate Research (Mutable Replay), Undergraduate Research (Accessible Ultrasound), Advanced Software Engineering, Natural Language Processing, Computer Vision, Computer Networks, Artificial Intelligence, Machine Learning, Applied Machine Learning, Deep Learning, Deep Learning For Computer Vision*
 
 2013-2015
 :   **Dual BA, Mathematics and Computer Science**; Knox College (Galesburg, IL)
@@ -35,20 +35,41 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Incoming Software Engineering -- Airbnb, Inc.**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+San Francisco, CA, United States
 
-* First item
+July 2018
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Course Assistant -- Columbia University**
 
-**That Other Job You Had**
+New York, NY, United States
 
-Also with a short description.
+January 2016 - May 2018
+
+* Course Assistant for Analysis of Algorithms (Dr. Alexandr Andoni) and Development Technologies (Prof. Andrew Hitti), Computer Science Theory (Dr. Tal G. Malkin & Dr. Nakul Verma). Computer Graphics (Prof. Micheal Reed), and Discrete Mathematics(Prof. Jessica Ouyang)
+
+* Actively answer and engage class questions and discussions on email list, grade student assignments, and hold scheduled office hours to provide further assistance to students.
+
+**Software Engineering Intern -- Airbnb, Inc.**
+
+San Francisco, CA, United States
+
+May 2017 - August 2017
+
+* Member of the Trust-Identity Team. Worked in Android, IOS, React Native, web and backend.
+
+* Member of the Trust-Identity Team. Worked in Android, IOS, React Native, web and backend.
+
+**Student Research Assistant -- Knox College**
+
+Galesburg, IL, United States
+
+November 2014 - Aug. 2016
+
+* Worked under Dr. David B. Bunde in NSF supported research to maximize supercomputer performance on the Dragonfly topology. My research team and I focused on proofs involving maximizing the Bisection Bandwidth of varying connection schemes. Coauthor on published paper in IEEE Cluster 2015
+
+* Worked on further expansions, including proofs of new connection schemes and simulations of throughput based in linear programming. CoAuthor on published paper in HiPINEB 2017.
 
 Technical Experience
 --------------------
