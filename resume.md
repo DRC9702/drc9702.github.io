@@ -59,7 +59,7 @@ May 2017 - August 2017
 
 * Member of the Trust-Identity Team. Worked in Android, IOS, React Native, web and backend.
 
-* Member of the Trust-Identity Team. Worked in Android, IOS, React Native, web and backend.
+* Worked on mobile development and identity related features such as government ID scanning, phone number verification, selfie capture, etc.
 
 **Student Research Assistant -- Knox College**
 
