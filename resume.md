@@ -71,54 +71,72 @@ November 2014 - Aug. 2016
 
 * Worked on further expansions, including proofs of new connection schemes and simulations of throughput based in linear programming. CoAuthor on published paper in HiPINEB 2017.
 
-Technical Experience
+**Student Grader and Teaching Assistant (Computer Science and Mathematics) -- Knox College**
+
+Galesburg, IL, United States
+
+Sept. 2013 - Mar. 2016
+
+* Assisted students during class labs, responsible for grading student homework, typed up solutions, and kept an in-depth record of assignments and student performance on spreadsheets}
+* Courses Graded/Assisted:
+  * Design and Methodology (Dr. John A. Stratton)
+  * Design and Methodology (Dr. David B. Bunde)
+  * Algorithm Design and Analysis (Prof. John Dooley)
+  * Linear Algebra (Dr. Dennis M. Schneider)
+  * Discrete Mathematics (Dr. Andrew Leahy)
+  * Differential Equations (Dr. Andrew Leahy)
+  * Operating Systems and Networks (Dr. David B. Bunde)
+
+**Undergraduate Student Researcher -- Illinois Institute of Technology and University of Chicago**
+
+Chicago, IL, United States
+
+June 2015 - Aug. 2015
+
+* Studied and researched theoretical computer science regarding large scale computing and wireless networking at the Illinois Institute of Technology and University of Chicago.}
+
+* Improved best-known  algorithm for finding minimum-energy k-disjoint paths in a wireless network between source and sink by a linear factor and coauthored published paper in SustainCom 2016.
+
+
+Research Projects
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Student Researcher - Common Green -- Columbia University and Carnegie Mellon University**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+New York, NY, United States
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Jan. 2018 - Present
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+* Working under Dr. Seth Goldstein in exploring the efficacy of creating a serverless/ownerless social network platform by using JavaScript, WebRTC, and overlay networks.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file).
+* Primarily responsible for designing and implementing the backend layer - adapting kademlia open-source libraries to utilize a mesh peer-to-peer network constructed out of WebRTC connections.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+**Student Researcher - Open-Source Portable Ultrasound Imaging Technology -- Columbia University**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+New York, NY, United States
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Sept. 2017 - Dec. 2017
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+* Worked to develop an open source ultra-portable 3D ultrasound hand-held device for medical imaging that is both affordable and easily accessible.
 
-* Human Languages:
+* Responsible for signals processing and image scheme. Primarily worked on the 3D graphical visualizations.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+**Student Researcher - Mutable Record/Replay Bug Reproduction for Java -- Columbia University**
 
-* Random tidbit
+New York, NY, United States
 
-* Other sort of impressive-sounding thing you did
+Jan. 2017 - May 2017
+
+* Contributed to ChroniclerJ, a capture system that allows for deterministic recording and reproducing buggy program executions with low overhead by logging sources of non-determinism only at the library level and automatically generating test cases when failures occur. Primarily performing static analysis on data flow.
+
+* http://www.psl.cs.columbia.edu/1801/recordreplay-bug-reproduction-for-java/
+
+**Student Researcher - Automated Geometry Theorem Proving -- Knox College**
+
+Galesburg, IL, United States
+
+June 2014 - Aug. 2014
+
+* Studied under the guidance of Dr. Pedro Teixeira in the field of Commutative Algebra and Algebraic Geometry. Me and a colleague developed an implementation of an Automated Geometry Theorem Prover in Mathematica with varying methods of Reduced Groebner Bases, as well as a dynamic visual interface.
+
+* Presented at the 2014 Undergraduate Research Symposium in the Physical Sciences, Math, and Computer Science at Washington University in St. Louis, "Implementation of an Automated Geometry Theorem Prover in Mathematica."
