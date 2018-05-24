@@ -11,11 +11,8 @@ David Rincon-Cruz
 dr2884@columbia.edu
 
 Phone Number: +1(X)Y-Z
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-X,Y prime; gcd(X+Y,Z) = 4; gcd(Z-X,Z-Y) = 3
+
+X,Y prime; Y-X=42; Z+X prime, gcd(X+Y,Z) = 4; gcd(Z-X,Z-Y) = 3; Z%X=56; Z%Y=313
 
 Education
 ---------
